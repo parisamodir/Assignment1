@@ -138,6 +138,8 @@ Date: september 21, 2021 */
 .form-control{
   background-image: linear-gradient(180deg, #222020, #362f2ff6 )!important;
   border-color: rgb(59, 54, 54);
+  color: rgb(228, 218, 218);
+  
 }
 body{
 background-color: rgb(27, 31, 43);
@@ -169,3 +171,4 @@ hr.js{
   width:60%;
 
 }
+
